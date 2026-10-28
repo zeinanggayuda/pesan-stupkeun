@@ -247,7 +247,7 @@ document.getElementById('checkout-form').addEventListener('submit', (event) => {
     : 'COD / bayar tunai';
 
   const message = [
-    'Halo Admin *StupReamy (Stup Creamy)*! 👋',
+    'Halo Admin *stup.keun*! 👋',
     '',
     'Saya mau pesan:',
     ...orderLines,
